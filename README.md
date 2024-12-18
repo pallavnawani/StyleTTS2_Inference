@@ -7,11 +7,11 @@ A Couple of python scripts to infer with the StyleTTS2 Package (https://github.c
 
 ## Installation
 
-0. Create a Venv
+1. Create a Venv
    ``` python -m envtts2
    envtts2\Scripts\activate.bat
    ```
-   
+
 2. ```pip install styletts2
    ```
 3. ```[Optional] Downloaded the StyleTTS2 LibriTTS checkpoint and corresponding config file. Both are available to download at https://huggingface.co/yl4579/StyleTTS2-LibriTTS. You can also provide paths to your own checkpoint and config file (just ensure it is the same format as the original one).
