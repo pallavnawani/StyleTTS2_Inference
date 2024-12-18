@@ -20,8 +20,7 @@ A Couple of python scripts to infer with the StyleTTS2 Package (https://github.c
    ```
    git clone https://github.com/pallavnawani/StyleTTS2_Inference
    ```
-Download These files and move them to the model directory:
-4. Clone the repository:
+4. Download These files and move them to the model directory.
    ```
    epochs_2nd_00020.pth -> Download from https://huggingface.co/yl4579/StyleTTS2-LibriTTS
    epoch_00080.pth -> Download from https://github.com/yl4579/StyleTTS2/tree/main/Utils/ASR
