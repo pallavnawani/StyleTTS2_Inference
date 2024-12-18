@@ -16,19 +16,15 @@ A Couple of python scripts to infer with the StyleTTS2 Package (https://github.c
 2. ```
    pip install styletts2
    ```
-3. ```
-   [Optional] Downloaded the StyleTTS2 LibriTTS checkpoint and corresponding config file. Both are available to download at https://huggingface.co/yl4579/StyleTTS2-LibriTTS. You can also provide paths to your own checkpoint and config file (just ensure it is the same format as the original one).
-   ```
-
-4. Clone the repository:
+3. Clone the repository:
    ```
    git clone https://github.com/pallavnawani/StyleTTS2_Inference
-   Download These files and move them to the model directory:
+   ```
+Download These files and move them to the model directory:
    epochs_2nd_00020.pth -> Download from https://huggingface.co/yl4579/StyleTTS2-LibriTTS
    epoch_00080.pth -> Download from https://github.com/yl4579/StyleTTS2/tree/main/Utils/ASR
    bst.t7 -> Download from https://github.com/yl4579/StyleTTS2/tree/main/Utils/JDC
-   ```
-
+   
 ## Usage
 
 ### Basic Inference
