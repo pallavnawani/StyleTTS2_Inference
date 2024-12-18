@@ -50,6 +50,7 @@ python infer_csv.py
 ```
 
 This script will read the `tts_input.csv` file, and for each row, it will generate an audio file in the `results` directory, using the voice style specified in the `SpeakerID` column. The script will look for voice files in the `voices` directory.
+Create a directory voices and put all the voices you want to use as reference to generate text there. This script looks into that directory for the .wav file which has the same name as in the 'SpeakerID' column of the .csv file.
 
 ## Contributing
 
