@@ -1,5 +1,4 @@
-# Project Title
-StyleTTS2 Package Inference
+# StyleTTS2 Package Inference
 
 ## Description
 
